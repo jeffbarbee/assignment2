@@ -11,3 +11,13 @@ For this assignment Python and R were the primary tools. Python used the Matplot
 # Results
 
 The regression model accounted for ~76% for the model's varianced after adjusting for the number of variables used in the R output and ~79% in the python unadjusted output. 
+
+# Part 2 Error
+
+I kept getting this error for part 2:
+
+*7030_class_1) [jeffbarbee@a0141 regression_docs]$ RegressionPython.py regression_data.csv YearsExperience Salary
+bash: RegressionPython.py: command not found...
+Failed to search for file: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer.*
+
+
