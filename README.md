@@ -1,5 +1,8 @@
 # assignment2
 
+# Updates 07-07-2025
+I have had a really hard time getting the python code to work. I am going to submit what I currenlty have and then continue to work on getting the graphs correct. I think I can perform the git portion of this assignment. 
+
 # Purpose of the Assignment
 
 This assignment was meant to develop competence to create Jupyter notebooks using both Python and R. It showed the similarities and differences in how to import the dataset and create a simple visualization. It is also meant to develop competence to share materials to Git. This is my next step, and I am a bit nervous. However, I have already added some materials to my Repo. 
